@@ -1,2 +1,2 @@
-# practice_C-
+# practice_C#
 practicing C# on Unity
